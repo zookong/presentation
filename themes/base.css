@@ -1,0 +1,14 @@
+/* @theme base */
+@import 'default';
+
+/* section {
+  background: #fa0;
+} */
+
+.center {
+    text-align : center;
+}
+
+.right {
+    text-align : right;
+}
